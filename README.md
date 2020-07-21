@@ -13,3 +13,10 @@
 - 	3️⃣ Secured 3rd position in SoftBank Forex Algorithm Challenge - <a href="https://competition.bitgrit.net/competition/3">***Hackhathon conducted by SoftBank on Bitgrit***</a>
 - 	👨 Co-Author of Python Package on Dominance Analysis - <a href="https://dominance-analysis.github.io/dominance-analysis/">***Dominance Analysis***</a>
 - 	👨 Co-Author of Python Package on ExploriPy - <a href="https://pypi.org/project/ExploriPy/">***Exploripy***</a>
+
+### Get in touch
+
+- LinkedIn : https://www.linkedin.com/in/bhagat0073/
+- Twitter  : https://twitter.com/bhagatsajan0073
+- Gmail    : bhagat.sajan0073@gmail.com
+
