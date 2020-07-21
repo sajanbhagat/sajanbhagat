@@ -1,3 +1,5 @@
+<img src="https://media-exp1.licdn.com/dms/image/C5116AQFY2R13AXUKrw/profile-displaybackgroundimage-shrink_350_1400/0?e=1600905600&v=beta&t=rlSXWwUqEZNXgucVmSwJHUc6LcXmVFP-xSgvKzBmHQc">
+
 ## Hi there 👋
 
 ### I'm a problem solver, professional ***data scientist and computer vision engineer*** with hands-on experience in deep learning frameworks like TensorFlow and PyTorch
@@ -19,4 +21,4 @@
 - LinkedIn : https://www.linkedin.com/in/bhagat0073/
 - Twitter  : https://twitter.com/bhagatsajan0073
 - Gmail    : bhagat.sajan0073@gmail.com
-
+- Website  : https://bhagatsajan0073.github.io/
