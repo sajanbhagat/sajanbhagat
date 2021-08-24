@@ -3,7 +3,7 @@
 ### I'm a problem solver, professional ***data scientist and computer vision engineer*** with hands-on experience in deep learning frameworks like TensorFlow and PyTorch
 
 - 🔭 Working as Manager - AI Labs at Subex Limited 
-- 👯 I’m looking to collaborate on computer vision based research projects
+- 👯 I’m looking forward to collaborate on computer vision based research projects
 - 💬 Ask me about Data Sciences
 
 ### Few Achievements
